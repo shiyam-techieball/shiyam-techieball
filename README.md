@@ -22,7 +22,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/shiyam-panneerselvam-490b79288/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -30,32 +30,29 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://yourportfolio.com" target="_blank">
+<!-- <a href="https://yourportfolio.com" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
+</a> -->
 </p>
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind,nodejs,Expressjs,vscode,git,github,npm,vite,figma" />
 </p>
 
-### Frontend
 
-<p>
+<!-- <p>
 <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
-</p>
+</p> -->
 
-### Tools
 
-<p>
+<!-- <p>
 <img src="https://skillicons.dev/icons?i=vscode,git,github,npm,vite,figma" />
-</p>
+</p> -->
 
 ---
 
@@ -68,25 +65,6 @@
 * Responsive Design
 * Local Storage
 * Task Status Management
-
----
-
-### 📌 React Todo Application
-
-* React Hooks
-* Component Architecture
-* Edit/Delete Tasks
-* Dynamic Rendering
-* State Management
-
----
-
-### 📌 Portfolio Website
-
-* Responsive UI
-* Modern Animations
-* Project Showcase
-* Contact Section
 
 ---
 
@@ -124,17 +102,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shiyam-techieball\&theme=tokyonight\&margin-w=10\&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-# 🐍 Contribution Snake
-
-![Snake animation](https://github.com/shiyam-techieball/shiyam-techieball/blob/output/github-contribution-grid-snake.svg)
-
----
 
 # 👀 Profile Visitors
 
@@ -144,7 +111,7 @@
 
 ## 💡 Quote
 
-> "Code. Learn. Build. Repeat."
+> "Every bug fixed is another lesson learned."
 
 ---
 
