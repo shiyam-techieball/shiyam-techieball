@@ -41,7 +41,7 @@
 
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind,nodejs,Expressjs,vscode,git,github,npm,vite,figma" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind,nodejs,expressjs,vscode,git,github,npm,vite,figma" />
 </p>
 
 
